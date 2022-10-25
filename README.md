@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning DeFi, ZKPs
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me generalist.dev
+- 📫 How to reach me hello@generalist.dev
 
 <!---
 gendev1/gendev1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
